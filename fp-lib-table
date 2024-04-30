@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "100S")(type "KiCad")(uri "C:/Users/mggam/Downloads/100SP1T1B4M2QE/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "switch182")(type "KiCad")(uri "C:/Users/mggam/Downloads/1825255_1 (1)/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "conn")(type "KiCad")(uri "C:/Users/mggam/Downloads/1825255_1 (1)/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "screw")(type "KiCad")(uri "C:/Users/mggam/Downloads/7807/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

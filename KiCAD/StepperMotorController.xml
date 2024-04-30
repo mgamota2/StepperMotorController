@@ -1,0 +1,2651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\mggam\Documents\University of Illinois\EV Concept\StepperMotorController\StepperMotorController.kicad_sch</source>
+    <date>2/20/2024 4:06:35 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>StepperMotorController.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>470uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35302fd2-53c8-40db-8814-16ea31bfe939</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69015ff2-8d51-4417-8f4d-52c94d2a7fbb</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f308426f-ff53-463d-b9e6-f6ab29f06c05</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5e28a69-d370-460d-8202-adb22cddd251</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9abbc58-cf02-413f-8ce2-46b27b53d62b</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e64d74cd-420c-48de-b083-1c5a6f47acfe</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>355b6a2c-edeb-4064-a158-591c62d6235c</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ec48d0e-c6f6-44d8-b886-b5f1b8602849</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e69fd47-1f07-49a8-a90b-ce746efd96c2</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de750896-fde9-4910-8f4c-0b8655a194cd</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e55fe60d-bc16-4296-9812-b8bca119d5b6</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2df394d5-fe4d-4dce-912e-58b9e41243a5</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d21fe5ae-e1a5-4a1f-b172-545a54a57a6a</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96fe4f2e-ad40-41a6-9026-546bc1216bdc</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0114fbc1-3aab-45d4-b7f0-b909e0080e43</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ab75415-78e0-4587-92bc-73ae891b2cec</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>470uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D16.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>747bfd85-dc89-4e03-9e83-7368477f8593</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1c1930d-5f14-4e45-a9a9-0334e985feee</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7665c749-dd17-4e04-8f9e-26e0a3865d38</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5d4b4c3-c4ad-42e0-8588-215f6ba59b7b</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0509c27b-116d-4e2f-bba1-4fe4641a5deb</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>097655c2-7740-42b3-b45b-7d06eff9091b</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecec86a8-9a3a-4cdd-9944-b472fe4b2b35</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>478fb3ab-93d4-463b-bfa2-2e1691a32bb2</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>174fa1c2-c899-40fd-b230-4d29f22b765b</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de53fee1-4004-4dec-89ae-87def75db680</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b8a3736-bada-4c6a-a4dc-81ac43039f45</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5be87864-a7ce-490b-9119-3512bb40f8e4</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93e7dc46-e60c-4eae-9401-469e7229ac7d</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d02649c7-acd8-44eb-8dc8-39985415c6dd</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9854c1df-6cec-42c9-90a0-d9f4e36406a6</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d20ebcce-4a06-4126-9400-81851fb6abb7</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36b36b4e-10d7-4bec-96d8-fd0ed98bd060</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17416c3c-3852-4ff9-9b54-95ed8239b9c4</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b29327e0-e25f-400c-b998-3a25448194ed</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1ca3655-93ad-4e6d-acca-a9b8d65b5678</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd1115b7-11d7-438d-a6bd-b5fdd452a77b</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>10pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42c0417a-364d-4dc6-9ff1-49c90b4ec04b</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>10pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e313c6f3-bdd2-423a-8f40-99df1400dd34</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d4ea727-05d3-45d6-8743-2501475b14bd</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>798ce375-3914-4374-8043-aee8aab87e88</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24dbc3f0-4070-4451-852a-d068e215bbb9</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f89479c-5e18-43f2-aa0a-295049c7c582</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a630a01-5c3f-43f1-9343-20702da9dc6a</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea74eec6-5a10-4bf2-8da9-6b45931545f3</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6693bcd4-754e-41b6-b988-9e0ec153678d</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72023dad-2b62-4fbb-93f9-cddf944ffbc1</tstamps>
+    </comp>
+    <comp ref="CBOOT1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a11b41eb-c6c1-46da-b714-375bbf95432f</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>82400102</value>
+      <footprint>SamacSys_Parts:SOT95P280X145-6N</footprint>
+      <datasheet>http://katalog.we-online.de/pbs/datasheet/82400102.pdf</datasheet>
+      <fields>
+        <field name="Description">TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23 Wurth Elektronik 82400102, Uni-Directional TVS Diode Array Array, 7.7V, 6-Pin SOT-23</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">82400102</field>
+        <field name="Mouser Part Number">710-82400102</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/82400102?qs=Wn16VcyqZWq4x2NXBP4V%252Bw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="82400102" description="TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23 Wurth Elektronik 82400102, Uni-Directional TVS Diode Array Array, 7.7V, 6-Pin SOT-23"/>
+      <property name="Description" value="TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23 Wurth Elektronik 82400102, Uni-Directional TVS Diode Array Array, 7.7V, 6-Pin SOT-23"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="710-82400102"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/82400102?qs=Wn16VcyqZWq4x2NXBP4V%252Bw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="82400102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1528beeb-203f-4806-abec-5d81169dc99e</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09308275-3a7d-426f-9aba-21e6b54c1f61</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1ca899d-07f9-47b7-9db3-81611ed03fc9</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f57e6b4-432e-4e32-b0c0-b2e7fa5d74bc</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acf12d52-d1ab-4495-9de4-ad1eb1bf83f7</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5e4b3f0-b188-4031-b1df-cc2ed23a2d29</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Zener</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f04f1c6-d507-4e13-b89a-90903b01a069</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccd87edb-4b35-481b-ab68-dedbd2a6ec9b</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f5a3cce-94fe-4492-9a00-2e42f8873235</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5f784fd-8af3-456a-8352-fd5d035cd0bc</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a823c92-9d47-4fb1-83c1-9a104b0b3c8c</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60dc656a-0ee8-4693-9f6e-375e458ce03d</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5f2b110-4f06-47bb-99fd-b6d6a5477de2</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>FerriteBead</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>664f0a07-de3f-4898-9610-1411743c8c3f</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>NCP51561BADWR2G</value>
+      <footprint>SamacSys_Parts:SOIC127P1030X265-16N</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/ncp51561-d.pdf</datasheet>
+      <fields>
+        <field name="Description">Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP51561BADWR2G</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="NCP51561BADWR2G" description="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Description" value="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Height" value="2.65"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP51561BADWR2G"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>956b0260-9763-46da-a6d0-2384dbac130c</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>NCP51561BADWR2G</value>
+      <footprint>SamacSys_Parts:SOIC127P1030X265-16N</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/ncp51561-d.pdf</datasheet>
+      <fields>
+        <field name="Description">Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP51561BADWR2G</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="NCP51561BADWR2G" description="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Description" value="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Height" value="2.65"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP51561BADWR2G"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6b2210f-6b93-45d9-bb01-e322fc05960f</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>LMR51610XDBVR</value>
+      <footprint>SamacSys_Parts:SOT95P280X145-6N</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/lmr51610.pdf?ts=1701061070841</datasheet>
+      <fields>
+        <field name="Description">Switching Voltage Regulators SIMPLE SWITCHER&amp;reg; 4.5-V to 65-V, 1-A synchronous buck converter with 25-&amp;micro;A&amp;nbsp;IQ 6-SOT-23 -40 to 150</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LMR51610XDBVR</field>
+        <field name="Mouser Part Number">595-LMR51610XDBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR51610XDBVR?qs=HoCaDK9Nz5ewhMO5oRaw9w%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="LMR51610XDBVR" description="Switching Voltage Regulators SIMPLE SWITCHER&amp;reg; 4.5-V to 65-V, 1-A synchronous buck converter with 25-&amp;micro;A&amp;nbsp;IQ 6-SOT-23 -40 to 150"/>
+      <property name="Description" value="Switching Voltage Regulators SIMPLE SWITCHER&amp;reg; 4.5-V to 65-V, 1-A synchronous buck converter with 25-&amp;micro;A&amp;nbsp;IQ 6-SOT-23 -40 to 150"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="595-LMR51610XDBVR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR51610XDBVR?qs=HoCaDK9Nz5ewhMO5oRaw9w%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="LMR51610XDBVR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e648dd72-965e-4221-bded-0917b5ea4071</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>NCP51561BADWR2G</value>
+      <footprint>SamacSys_Parts:SOIC127P1030X265-16N</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/ncp51561-d.pdf</datasheet>
+      <fields>
+        <field name="Description">Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP51561BADWR2G</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="NCP51561BADWR2G" description="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Description" value="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Height" value="2.65"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP51561BADWR2G"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e32d5c07-adac-438e-97c9-816e0d473557</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>NCP51561BADWR2G</value>
+      <footprint>SamacSys_Parts:SOIC127P1030X265-16N</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/ncp51561-d.pdf</datasheet>
+      <fields>
+        <field name="Description">Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP51561BADWR2G</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="NCP51561BADWR2G" description="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Description" value="Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE"/>
+      <property name="Height" value="2.65"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP51561BADWR2G"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc854600-3840-4348-8770-85beb9b59dce</tstamps>
+    </comp>
+    <comp ref="IC6">
+      <value>TC1264-3.3VDBTR</value>
+      <footprint>SamacSys_Parts:SOT230P700X180-4N</footprint>
+      <fields>
+        <field name="Description">LDO Voltage Regulators 800mA Fixed Output</field>
+        <field name="Height">1.8</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">TC1264-3.3VDBTR</field>
+        <field name="Mouser Part Number">579-TC1264-3.3VDBTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/TC1264-3.3VDBTR?qs=EkZBwCRGcSs72PT5fOeaFg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TC1264-3.3VDBTR" description="LDO Voltage Regulators 800mA Fixed Output"/>
+      <property name="Description" value="LDO Voltage Regulators 800mA Fixed Output"/>
+      <property name="Height" value="1.8"/>
+      <property name="Mouser Part Number" value="579-TC1264-3.3VDBTR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/TC1264-3.3VDBTR?qs=EkZBwCRGcSs72PT5fOeaFg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="TC1264-3.3VDBTR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cf057a0-eea9-46ca-8cf7-0d1e18884405</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB4085-GF-A_REVA4</value>
+      <footprint>Connector_USB:USB_C_Receptacle_GCT_USB4085</footprint>
+      <fields>
+        <field name="MANUFACTURER">Global Connector Technology</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.46mm</field>
+        <field name="PARTREV">A4</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="USB4085-GF-A_REVA4" part="USB4085-GF-A_REVA4" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.46mm"/>
+      <property name="PARTREV" value="A4"/>
+      <property name="MANUFACTURER" value="Global Connector Technology"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53b367d6-2f90-49f3-accc-1a664aadee34</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>54602-908LF</value>
+      <footprint>SamacSys_Parts:54602908LF</footprint>
+      <datasheet>https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_modularjack.pdf</datasheet>
+      <fields>
+        <field name="Description">Modular Jack, Input Output Connectors, Cat 3 Single Modular Jack, Horizontal, Board Through Mount, 8P8C, 1 Port</field>
+        <field name="Height">12.85</field>
+        <field name="Manufacturer_Name">Amphenol</field>
+        <field name="Manufacturer_Part_Number">54602-908LF</field>
+        <field name="Mouser Part Number">649-54602-908LF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/54602-908LF?qs=UB9wU2EYlYSRVSFArXBUoA%3D%3D</field>
+      </fields>
+      <libsource lib="LightBoardLib" part="54602-908LF" description=""/>
+      <property name="Description" value="Modular Jack, Input Output Connectors, Cat 3 Single Modular Jack, Horizontal, Board Through Mount, 8P8C, 1 Port"/>
+      <property name="Height" value="12.85"/>
+      <property name="Mouser Part Number" value="649-54602-908LF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/54602-908LF?qs=UB9wU2EYlYSRVSFArXBUoA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Amphenol"/>
+      <property name="Manufacturer_Part_Number" value="54602-908LF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63f305d2-8a12-4e4c-ae31-e8804d7c479d</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>PDS1-S24-S5-M-TR</value>
+      <footprint>SamacSys_Parts:PDS1S24S5MTR</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA8/2892443.pdf</datasheet>
+      <fields>
+        <field name="Description">Module DC-DC 24VIN 1-OUT 5V 0.2A 1W 5-Pin SMD Module T/R</field>
+        <field name="Height">7.5</field>
+        <field name="Manufacturer_Name">CUI Inc.</field>
+        <field name="Manufacturer_Part_Number">PDS1-S24-S5-M-TR</field>
+        <field name="Mouser Part Number">490-PDS1-S24-S5-M-TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Inc/PDS1-S24-S5-M-TR?qs=WyjlAZoYn502nd3TdIuXjQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="PDS1-S24-S5-M-TR" description="Module DC-DC 24VIN 1-OUT 5V 0.2A 1W 5-Pin SMD Module T/R"/>
+      <property name="Description" value="Module DC-DC 24VIN 1-OUT 5V 0.2A 1W 5-Pin SMD Module T/R"/>
+      <property name="Height" value="7.5"/>
+      <property name="Mouser Part Number" value="490-PDS1-S24-S5-M-TR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Inc/PDS1-S24-S5-M-TR?qs=WyjlAZoYn502nd3TdIuXjQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="CUI Inc."/>
+      <property name="Manufacturer_Part_Number" value="PDS1-S24-S5-M-TR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48eb80bf-4753-456b-badd-651e1a923e2c</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>968810a1-da8e-497e-9757-39d6b9fb8504</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>1984633</value>
+      <footprint>Connector_Phoenix_GMSTB:PhoenixContact_GMSTBVA_2,5_4-G-7,62_1x04_P7.62mm_Vertical</footprint>
+      <datasheet>1984633</datasheet>
+      <libsource lib="4wireconn" part="1984633" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14ae662d-7912-42c0-b4af-e536add6b3cc</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>7807</value>
+      <footprint>screw:CONN_7807_KEY</footprint>
+      <datasheet>7807</datasheet>
+      <libsource lib="ScrewTerm" part="7807" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>055691f0-9a26-48fe-90da-701d804d1a81</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>7807</value>
+      <footprint>screw:CONN_7807_KEY</footprint>
+      <datasheet>7807</datasheet>
+      <libsource lib="ScrewTerm" part="7807" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a74368c-f27f-4310-b9bb-d7a760768bd5</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>82uH</value>
+      <footprint>Inductor_SMD:L_Bourns_SRR1260</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9779ef4-4a7d-45ea-8856-ea2697b056e2</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b178099c-ad51-4f0f-bf68-0b9538784271</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f82dd43-03f6-4442-93a9-c67aecf2470a</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7551fa0-31af-4813-8331-20486c767120</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6e254ae-506f-43ba-8c49-8d0134b283b9</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>919fed32-da4d-47f2-bc0f-090ea3e85a10</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dde262b7-d6d7-4579-906b-a84c129c74d1</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>338ae53c-3217-4ecd-a14c-46fc647dd93a</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>IRF740</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.vishay.com/docs/91054/91054.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRF740" description="10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea1e25a3-d00c-4e0f-820f-a6f774428a35</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad3a39ab-d23e-4873-965b-1967f8ec4d4a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f9b37cd-d87e-4541-bbf4-9b81bbe3e69c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.11k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a43a0b25-7553-48c2-8a52-7bdfaf937e77</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20f618e7-1d0f-493d-aa10-c3c7eadb5611</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb1ec1ed-d354-4508-9d86-d8490314c4bc</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5.11k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccc24c72-5781-4c91-bc4e-b15b72e32d68</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09b75cd7-0b88-4e92-b266-9d30e678fa5c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59fdf57a-4f48-4aa7-b635-04f05b276280</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f672f7d-43ea-4d1b-9f6e-3ddaf51ddb40</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46010012-f05c-41a9-af6f-76bcdeec13d2</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49dc1c1c-05d0-4ee4-8b3a-3987feb2ecab</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>114e0df3-0fef-48fe-b94d-0ad83aecec34</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dff7dade-db05-4b27-9c4e-db876a8d3443</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71de99c0-3a82-4646-b2d3-70ff6c153789</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c179bbaa-aff0-4e84-89bf-797d880b3343</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d0ddd21-4b1b-4370-a5c3-a569dcc556a1</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a3ee7db-fa38-4037-900f-9d4a328c1990</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3319eda-434b-4ef0-8e57-51db8957e431</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>1.5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7406ea56-a9a7-4faf-8f68-d551b562ce21</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7a09f9a-3265-44cf-9f15-8482421f81d1</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>424d93d8-df0f-4e3e-a819-ebcd666db56b</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>168e4bab-61d0-4018-9e93-ef9371d8a441</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e00dacb-3905-4711-a16b-4ade047bcbe9</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3db8ef41-547e-4a8c-bef3-cea397e57127</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>3.48k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61accc64-fe00-48f6-a62d-c34a17453dc7</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db2187c8-4975-481a-abb7-f98f030d9f11</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>503b0782-f61f-4db1-9eec-3b0608f0fd0b</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>839aeb72-5a4f-4f75-af54-9f36409dc8ba</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f01e65e7-b8a1-4bd6-be96-80fb936dc66b</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d28e160-526c-4d39-b2c4-6cd7956a0da8</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5baaa41b-3f70-4eec-a29c-034e95284da5</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eb74e95-0633-435a-a555-ff9e5e704e7e</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49503b71-a4e8-4e26-976c-5b4f12b738d0</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9277274-e534-4af5-bf07-597ac34c3092</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ac971be-73c9-448c-9e94-47e91d7bc540</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60476e5b-a5ef-428d-8110-0fb1338ca0e1</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>415e54b1-1e08-41dd-988e-e909c35f409c</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>384aa605-2fbd-4672-9d65-37bc40125e4f</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f095d6c6-37b4-410b-8eb9-00ecbe9d01e7</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04fc4b62-08fc-4628-bcd8-70161281392f</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>148e34a9-6b81-4f8b-b29f-a552af2ae2f8</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ce5bd6e-233b-4bda-b280-8164aaadb9d9</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>100SP1T1B4M2QE</value>
+      <footprint>100S:100SP1T1_EWI</footprint>
+      <datasheet>100SP1T1B4M2QE</datasheet>
+      <libsource lib="Switch1" part="100SP1T1B4M2QE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4cb03b7-8922-4b44-98a3-886513801607</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>1825255-1</value>
+      <footprint>switch182:SW3_1825255-1_TEC</footprint>
+      <datasheet>1825255-1</datasheet>
+      <libsource lib="switch" part="1825255-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46802f08-2200-4f95-948e-d94defd466e5</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b84ba4ed-cdaa-4a32-9d89-3b330aa94bab</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ISO1050DUB</value>
+      <footprint>Package_SO:SOP-8_6.62x9.15mm_P2.54mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/iso1050.pdf</datasheet>
+      <libsource lib="Interface_CAN_LIN" part="ISO1050DUB" description="Isolated CAN Transceiver, SOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3ce0e23-38ff-4114-8470-947d9c231511</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>STM32F103C8Tx</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32F1" part="STM32F103C8Tx" description="ARM Cortex-M3 MCU, 64KB flash, 20KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8874a18-2374-4b80-84dd-87914dc13c8e</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_GND24</value>
+      <footprint>SamacSys_Parts:ECS801033CHNTR3</footprint>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="StepperMotorController.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d2a3efa-cf25-4bb5-b117-2e2e792f7a95</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="4wireconn" part="1984633">
+      <docs>1984633</docs>
+      <footprints>
+        <fp>CONN_1984633_PXC</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1984633</field>
+        <field name="Footprint">CONN_1984633_PXC</field>
+        <field name="Datasheet">1984633</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead">
+      <description>Ferrite bead</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_CAN_LIN" part="ISO1050DUB">
+      <description>Isolated CAN Transceiver, SOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/iso1050.pdf</docs>
+      <footprints>
+        <fp>SOP*6.62x9.15mm*P2.54mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ISO1050DUB</field>
+        <field name="Footprint">Package_SO:SOP-8_6.62x9.15mm_P2.54mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/iso1050.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC1" type="power_in"/>
+        <pin num="2" name="RXD" type="output"/>
+        <pin num="3" name="TXD" type="input"/>
+        <pin num="4" name="GND1" type="power_in"/>
+        <pin num="5" name="GND2" type="power_in"/>
+        <pin num="6" name="CANL" type="bidirectional"/>
+        <pin num="7" name="CANH" type="bidirectional"/>
+        <pin num="8" name="VCC2" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LightBoardLib" part="54602-908LF">
+      <docs>https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_modularjack.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">54602-908LF</field>
+        <field name="Footprint">54602908LF</field>
+        <field name="Datasheet">https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_modularjack.pdf</field>
+        <field name="Description">Modular Jack, Input Output Connectors, Cat 3 Single Modular Jack, Horizontal, Board Through Mount, 8P8C, 1 Port</field>
+        <field name="Height">12.85</field>
+        <field name="Mouser Part Number">649-54602-908LF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/54602-908LF?qs=UB9wU2EYlYSRVSFArXBUoA%3D%3D</field>
+        <field name="Manufacturer_Name">Amphenol</field>
+        <field name="Manufacturer_Part_Number">54602-908LF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F1" part="STM32F103C8Tx">
+      <description>ARM Cortex-M3 MCU, 64KB flash, 20KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</docs>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F103C8Tx</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PD0" type="input"/>
+        <pin num="6" name="PD1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDD" type="power_in"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="82400102">
+      <description>TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23 Wurth Elektronik 82400102, Uni-Directional TVS Diode Array Array, 7.7V, 6-Pin SOT-23</description>
+      <docs>http://katalog.we-online.de/pbs/datasheet/82400102.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">82400102</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">http://katalog.we-online.de/pbs/datasheet/82400102.pdf</field>
+        <field name="Description">TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23 Wurth Elektronik 82400102, Uni-Directional TVS Diode Array Array, 7.7V, 6-Pin SOT-23</field>
+        <field name="Height">1.45</field>
+        <field name="Mouser Part Number">710-82400102</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/82400102?qs=Wn16VcyqZWq4x2NXBP4V%252Bw%3D%3D</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">82400102</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O_1_1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O_2_1" type="passive"/>
+        <pin num="4" name="I/O_2_2" type="passive"/>
+        <pin num="5" name="VDD" type="passive"/>
+        <pin num="6" name="I/O_1_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="LMR51610XDBVR">
+      <description>Switching Voltage Regulators SIMPLE SWITCHER&amp;reg; 4.5-V to 65-V, 1-A synchronous buck converter with 25-&amp;micro;A&amp;nbsp;IQ 6-SOT-23 -40 to 150</description>
+      <docs>https://www.ti.com/lit/ds/symlink/lmr51610.pdf?ts=1701061070841</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LMR51610XDBVR</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/lmr51610.pdf?ts=1701061070841</field>
+        <field name="Description">Switching Voltage Regulators SIMPLE SWITCHER&amp;reg; 4.5-V to 65-V, 1-A synchronous buck converter with 25-&amp;micro;A&amp;nbsp;IQ 6-SOT-23 -40 to 150</field>
+        <field name="Height">1.45</field>
+        <field name="Mouser Part Number">595-LMR51610XDBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR51610XDBVR?qs=HoCaDK9Nz5ewhMO5oRaw9w%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LMR51610XDBVR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CB" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="power_in"/>
+        <pin num="6" name="SW" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="NCP51561BADWR2G">
+      <description>Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE</description>
+      <docs>https://www.onsemi.com/pdf/datasheet/ncp51561-d.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">NCP51561BADWR2G</field>
+        <field name="Footprint">SOIC127P1030X265-16N</field>
+        <field name="Datasheet">https://www.onsemi.com/pdf/datasheet/ncp51561-d.pdf</field>
+        <field name="Description">Isolated Gate Drivers 5 kVRMS Isolated Dual Channel 4.5/9 A Gate Driver 4.5/9A Isolated Dual Channel Gate Driver with 8V UVLO and ENABLE</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP51561BADWR2G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INA" type="passive"/>
+        <pin num="2" name="INB" type="passive"/>
+        <pin num="3" name="VDD_1" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="ENA/DIS" type="passive"/>
+        <pin num="6" name="DT" type="passive"/>
+        <pin num="7" name="ANB" type="passive"/>
+        <pin num="8" name="VDD_2" type="passive"/>
+        <pin num="9" name="VSSB" type="passive"/>
+        <pin num="10" name="OUTB" type="passive"/>
+        <pin num="11" name="VCCB" type="passive"/>
+        <pin num="12" name="NC_1" type="passive"/>
+        <pin num="13" name="NC_2" type="passive"/>
+        <pin num="14" name="VSSA" type="passive"/>
+        <pin num="15" name="OUTA" type="passive"/>
+        <pin num="16" name="VCCA" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="PDS1-S24-S5-M-TR">
+      <description>Module DC-DC 24VIN 1-OUT 5V 0.2A 1W 5-Pin SMD Module T/R</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA8/2892443.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PDS1-S24-S5-M-TR</field>
+        <field name="Footprint">PDS1S24S5MTR</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA8/2892443.pdf</field>
+        <field name="Description">Module DC-DC 24VIN 1-OUT 5V 0.2A 1W 5-Pin SMD Module T/R</field>
+        <field name="Height">7.5</field>
+        <field name="Mouser Part Number">490-PDS1-S24-S5-M-TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Inc/PDS1-S24-S5-M-TR?qs=WyjlAZoYn502nd3TdIuXjQ%3D%3D</field>
+        <field name="Manufacturer_Name">CUI Inc.</field>
+        <field name="Manufacturer_Part_Number">PDS1-S24-S5-M-TR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="VIN" type="passive"/>
+        <pin num="4" name="0V" type="passive"/>
+        <pin num="5" name="+VO" type="passive"/>
+        <pin num="8" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TC1264-3.3VDBTR">
+      <description>LDO Voltage Regulators 800mA Fixed Output</description>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TC1264-3.3VDBTR</field>
+        <field name="Footprint">SOT230P700X180-4N</field>
+        <field name="Description">LDO Voltage Regulators 800mA Fixed Output</field>
+        <field name="Height">1.8</field>
+        <field name="Mouser Part Number">579-TC1264-3.3VDBTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/TC1264-3.3VDBTR?qs=EkZBwCRGcSs72PT5fOeaFg%3D%3D</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">TC1264-3.3VDBTR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="passive"/>
+        <pin num="2" name="GND_1" type="passive"/>
+        <pin num="3" name="VOUT" type="passive"/>
+        <pin num="4" name="GND_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ScrewTerm" part="7807">
+      <docs>7807</docs>
+      <footprints>
+        <fp>CONN_7807_KEY</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">7807</field>
+        <field name="Footprint">CONN_7807_KEY</field>
+        <field name="Datasheet">7807</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="6" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch1" part="100SP1T1B4M2QE">
+      <docs>100SP1T1B4M2QE</docs>
+      <footprints>
+        <fp>100SP1T1_EWI</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">100SP1T1B4M2QE</field>
+        <field name="Footprint">100SP1T1_EWI</field>
+        <field name="Datasheet">100SP1T1B4M2QE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="IRF740">
+      <description>10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB</description>
+      <docs>http://www.vishay.com/docs/91054/91054.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRF740</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.vishay.com/docs/91054/91054.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="USB4085-GF-A_REVA4" part="USB4085-GF-A_REVA4">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB4085-GF-A_REVA4</field>
+        <field name="Footprint">GCT_USB4085-GF-A_REVA4</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.46mm</field>
+        <field name="PARTREV">A4</field>
+        <field name="MANUFACTURER">Global Connector Technology</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="power_in"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="power_in"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="P1" name="SHELL" type="passive"/>
+        <pin num="P2" name="SHELL" type="passive"/>
+        <pin num="P3" name="SHELL" type="passive"/>
+        <pin num="P4" name="SHELL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="switch" part="1825255-1">
+      <docs>1825255-1</docs>
+      <footprints>
+        <fp>SW3_1825255-1_TEC</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">1825255-1</field>
+        <field name="Footprint">SW3_1825255-1_TEC</field>
+        <field name="Datasheet">1825255-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="4wireconn">
+      <uri>C:/Users/mggam/Downloads/1984633/KiCADv6/2024-02-20_15-22-58.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_CAN_LIN">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_CAN_LIN.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32F1">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM32F1.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/mggam/Documents/KiCad/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="ScrewTerm">
+      <uri>C:/Users/mggam/Downloads/7807/KiCADv6/2024-02-20_15-40-02.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Switch1">
+      <uri>C:/Users/mggam/Downloads/100SP1T1B4M2QE/KiCADv6/2024-02-20_14-27-57.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="USB4085-GF-A_REVA4">
+      <uri/>
+    </library>
+    <library logical="switch">
+      <uri>C:/Users/mggam/Downloads/1825255_1 (1)/KiCADv6/2024-02-20_14-42-26.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="IC6" pin="3" pinfunction="VOUT" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="VDD_1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VDD_2" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="VDD_1" pintype="passive"/>
+      <node ref="IC2" pin="8" pinfunction="VDD_2" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="VDD_1" pintype="passive"/>
+      <node ref="IC4" pin="8" pinfunction="VDD_2" pintype="passive"/>
+      <node ref="IC5" pin="3" pinfunction="VDD_1" pintype="passive"/>
+      <node ref="IC5" pin="8" pinfunction="VDD_2" pintype="passive"/>
+      <node ref="IC6" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="+VO" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="+48V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J6" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="J6" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="J6" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="J6" pin="6" pinfunction="6" pintype="unspecified"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="4" name="3.3V">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="1" pinfunction="VCC1" pintype="power_in"/>
+    </net>
+    <net code="5" name="3.3_STM">
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U2" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="36" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="6" name="5VCAN">
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC2" pintype="power_in"/>
+    </net>
+    <net code="7" name="A+">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="14" pinfunction="VSSA" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="A-">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="IC2" pin="14" pinfunction="VSSA" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="B+">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="IC4" pin="14" pinfunction="VSSA" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="Q5" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="B-">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="IC5" pin="14" pinfunction="VSSA" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="Q7" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="CANH">
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="CANH" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="CANL">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="CANL" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="CANRX">
+      <node ref="U1" pin="2" pinfunction="RXD" pintype="output"/>
+      <node ref="U2" pin="45" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="CANTX">
+      <node ref="U1" pin="3" pinfunction="TXD" pintype="input"/>
+      <node ref="U2" pin="46" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="CB">
+      <node ref="CBOOT1" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="1" pinfunction="CB" pintype="input"/>
+    </net>
+    <net code="16" name="D+">
+      <node ref="D1" pin="6" pinfunction="I/O_1_2" pintype="passive"/>
+      <node ref="J1" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="D-">
+      <node ref="D1" pin="4" pinfunction="I/O_2_2" pintype="passive"/>
+      <node ref="J1" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="DOUT_N">
+      <node ref="D1" pin="3" pinfunction="I/O_2_1" pintype="passive"/>
+      <node ref="U2" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="DOUT_P">
+      <node ref="D1" pin="1" pinfunction="I/O_1_1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U2" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="DT_A1">
+      <node ref="IC1" pin="6" pinfunction="DT" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="DT_A2">
+      <node ref="IC2" pin="6" pinfunction="DT" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="DT_B1">
+      <node ref="IC4" pin="6" pinfunction="DT" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="DT_B2">
+      <node ref="IC5" pin="6" pinfunction="DT" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="FB">
+      <node ref="IC3" pin="3" pinfunction="FB" pintype="input"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="VSSB" pintype="passive"/>
+      <node ref="IC2" pin="9" pinfunction="VSSB" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC4" pin="9" pinfunction="VSSB" pintype="passive"/>
+      <node ref="IC5" pin="9" pinfunction="VSSB" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J7" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J7" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="J7" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="J7" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="J7" pin="6" pinfunction="6" pintype="unspecified"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="44" pinfunction="BOOT0" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="GNDCAN">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND2" pintype="power_in"/>
+    </net>
+    <net code="27" name="GND_5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="ANB" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="7" pinfunction="ANB" pintype="passive"/>
+      <node ref="IC4" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC4" pin="7" pinfunction="ANB" pintype="passive"/>
+      <node ref="IC5" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC5" pin="7" pinfunction="ANB" pintype="passive"/>
+      <node ref="IC6" pin="2" pinfunction="GND_1" pintype="passive"/>
+      <node ref="IC6" pin="4" pinfunction="GND_2" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="P1" pinfunction="SHELL" pintype="passive"/>
+      <node ref="J1" pin="P2" pinfunction="SHELL" pintype="passive"/>
+      <node ref="J1" pin="P3" pinfunction="SHELL" pintype="passive"/>
+      <node ref="J1" pin="P4" pinfunction="SHELL" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="0V" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U2" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="35" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="28" name="MasterPower">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="EN" pintype="input"/>
+      <node ref="IC3" pin="5" pinfunction="VIN" pintype="power_in"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="29" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(IC1-Pad5)">
+      <node ref="IC1" pin="5" pinfunction="ENA/DIS" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(IC1-Pad10)">
+      <node ref="IC1" pin="10" pinfunction="OUTB" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(IC1-Pad15)">
+      <node ref="IC1" pin="15" pinfunction="OUTA" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(IC2-Pad5)">
+      <node ref="IC2" pin="5" pinfunction="ENA/DIS" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(IC2-Pad10)">
+      <node ref="IC2" pin="10" pinfunction="OUTB" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(IC2-Pad15)">
+      <node ref="IC2" pin="15" pinfunction="OUTA" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(IC4-Pad5)">
+      <node ref="IC4" pin="5" pinfunction="ENA/DIS" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(IC4-Pad10)">
+      <node ref="IC4" pin="10" pinfunction="OUTB" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(IC4-Pad15)">
+      <node ref="IC4" pin="15" pinfunction="OUTA" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(IC5-Pad5)">
+      <node ref="IC5" pin="5" pinfunction="ENA/DIS" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(IC5-Pad10)">
+      <node ref="IC5" pin="10" pinfunction="OUTB" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(IC5-Pad15)">
+      <node ref="IC5" pin="15" pinfunction="OUTA" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(Q7-Pad1)">
+      <node ref="Q7" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(Q8-Pad1)">
+      <node ref="Q8" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="OSC_IN">
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="PD0" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="OSC_OUT">
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="PD1" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="64" name="PWM_A1_A">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="INA" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="PWM_A1_B">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="INB" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="PWM_A2_A">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="INA" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="PWM_A2_B">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="INB" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="PWM_B1_A">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="IC4" pin="1" pinfunction="INA" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="PWM_B1_B">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="INB" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="PWM_B2_A">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="IC5" pin="1" pinfunction="INA" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="PWM_B2_B">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="IC5" pin="2" pinfunction="INB" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="RST">
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="73" name="SW">
+      <node ref="CBOOT1" pin="2" pintype="passive"/>
+      <node ref="IC3" pin="6" pinfunction="SW" pintype="output"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="SWCLK">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="SWDIO">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="SWIM">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="77" name="USB_LED1">
+      <node ref="U2" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="VBUS">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="79" name="VBUS_USB">
+      <node ref="D1" pin="5" pinfunction="VDD" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+    </net>
+    <net code="80" name="VCCA_A1">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="16" pinfunction="VCCA" pintype="passive"/>
+    </net>
+    <net code="81" name="VCCA_A2">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC2" pin="16" pinfunction="VCCA" pintype="passive"/>
+    </net>
+    <net code="82" name="VCCA_B1">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC4" pin="16" pinfunction="VCCA" pintype="passive"/>
+    </net>
+    <net code="83" name="VCCA_B2">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC5" pin="16" pinfunction="VCCA" pintype="passive"/>
+    </net>
+    <net code="84" name="VCCB_A1">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="11" pinfunction="VCCB" pintype="passive"/>
+      <node ref="IC2" pin="11" pinfunction="VCCB" pintype="passive"/>
+      <node ref="IC4" pin="11" pinfunction="VCCB" pintype="passive"/>
+      <node ref="IC5" pin="11" pinfunction="VCCB" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="VIN" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="unconnected-(IC1-Pad12)">
+      <node ref="IC1" pin="12" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(IC1-Pad13)">
+      <node ref="IC1" pin="13" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(IC2-Pad12)">
+      <node ref="IC2" pin="12" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(IC2-Pad13)">
+      <node ref="IC2" pin="13" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(IC4-Pad12)">
+      <node ref="IC4" pin="12" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(IC4-Pad13)">
+      <node ref="IC4" pin="13" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(IC5-Pad12)">
+      <node ref="IC5" pin="12" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(IC5-Pad13)">
+      <node ref="IC5" pin="13" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(J2-Pad6)">
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(J2-Pad7)">
+      <node ref="J2" pin="7" pinfunction="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(J2-Pad8)">
+      <node ref="J2" pin="8" pinfunction="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(J3-Pad8)">
+      <node ref="J3" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(J4-Pad9)">
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(J4-Pad10)">
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="PC13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="PC14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="PC15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U2-Pad14)">
+      <node ref="U2" pin="14" pinfunction="PA4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U2-Pad15)">
+      <node ref="U2" pin="15" pinfunction="PA5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U2-Pad21)">
+      <node ref="U2" pin="21" pinfunction="PB10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U2-Pad22)">
+      <node ref="U2" pin="22" pinfunction="PB11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U2-Pad26)">
+      <node ref="U2" pin="26" pinfunction="PB13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U2-Pad27)">
+      <node ref="U2" pin="27" pinfunction="PB14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(U2-Pad28)">
+      <node ref="U2" pin="28" pinfunction="PB15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(U2-Pad29)">
+      <node ref="U2" pin="29" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(U2-Pad30)">
+      <node ref="U2" pin="30" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U2-Pad31)">
+      <node ref="U2" pin="31" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U2-Pad38)">
+      <node ref="U2" pin="38" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U2-Pad39)">
+      <node ref="U2" pin="39" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U2-Pad40)">
+      <node ref="U2" pin="40" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U2-Pad41)">
+      <node ref="U2" pin="41" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U2-Pad42)">
+      <node ref="U2" pin="42" pinfunction="PB6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U2-Pad43)">
+      <node ref="U2" pin="43" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "switch")(type "KiCad")(uri "C:/Users/mggam/Downloads/1825255_1 (1)/KiCADv6/2024-02-20_14-42-26.kicad_sym")(options "")(descr ""))
+  (lib (name "4wireconn")(type "KiCad")(uri "C:/Users/mggam/Downloads/1984633/KiCADv6/2024-02-20_15-22-58.kicad_sym")(options "")(descr ""))
+)

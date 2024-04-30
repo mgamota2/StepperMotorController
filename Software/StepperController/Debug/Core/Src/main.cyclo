@@ -1,0 +1,16 @@
+../Core/Src/main.c:84:5:main	1
+../Core/Src/main.c:169:6:SystemClock_Config	4
+../Core/Src/main.c:216:13:MX_CAN_Init	2
+../Core/Src/main.c:253:13:MX_TIM2_Init	9
+../Core/Src/main.c:324:13:MX_TIM3_Init	9
+../Core/Src/main.c:395:13:MX_GPIO_Init	1
+../Core/Src/main.c:411:6:set_pwm	17
+../Core/Src/main.c:439:6:user_pwm_init	1
+../Core/Src/main.c:452:6:stop_motor	3
+../Core/Src/main.c:460:6:set_phase	5
+../Core/Src/main.c:492:6:fs_right	3
+../Core/Src/main.c:502:6:fs_left	4
+../Core/Src/main.c:516:6:fs_right_deg	2
+../Core/Src/main.c:527:6:fs_left_deg	2
+../Core/Src/main.c:539:6:zero_pos	2
+../Core/Src/main.c:554:6:Error_Handler	1

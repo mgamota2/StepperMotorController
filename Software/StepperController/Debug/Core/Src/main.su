@@ -1,0 +1,16 @@
+../Core/Src/main.c:84:5:main	1016	static
+../Core/Src/main.c:169:6:SystemClock_Config	88	static
+../Core/Src/main.c:216:13:MX_CAN_Init	8	static
+../Core/Src/main.c:253:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:324:13:MX_TIM3_Init	64	static
+../Core/Src/main.c:395:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:411:6:set_pwm	16	static
+../Core/Src/main.c:439:6:user_pwm_init	8	static
+../Core/Src/main.c:452:6:stop_motor	16	static
+../Core/Src/main.c:460:6:set_phase	16	static
+../Core/Src/main.c:492:6:fs_right	16	static
+../Core/Src/main.c:502:6:fs_left	16	static
+../Core/Src/main.c:516:6:fs_right_deg	24	static
+../Core/Src/main.c:527:6:fs_left_deg	24	static
+../Core/Src/main.c:539:6:zero_pos	8	static
+../Core/Src/main.c:554:6:Error_Handler	4	static,ignoring_inline_asm
